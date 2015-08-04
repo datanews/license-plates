@@ -7,7 +7,7 @@ Data on New York personalized license plate applications received from the New Y
 ## Contents
 
 * `accepted-plates.csv`: CSV of plate applications that were accepted and issued, with order date and plate configuration.
-* `rejected-plates.csv`: CSV of plate applications that were rejected by the department.
+* `rejected-plates.csv`: CSV of plate applications that were rejected by the department, with order date and plate configuration.
 
 ## Notes
 
