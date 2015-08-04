@@ -16,6 +16,7 @@ Data on New York personalized license plate applications received from the New Y
 * Plate configurations in `rejected-plates.csv` were rejected by the department. It does not include plates that were reserved, banned by the Red Guide, or cancelled for administrative reasons.
 * Some plate configurations may exist in multiple applications.
 * A small number of rows may contain erroneous data because of Excel cell formatting in the original prepared files.
+* Although the DMV collects an explanation of the requested combination from each online applicant, that information is not preserved.
 
 ## Processing
 
