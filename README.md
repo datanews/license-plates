@@ -8,6 +8,8 @@ Data on New York personalized license plate applications received from the New Y
 
 * `accepted-plates.csv`: CSV of plate applications that were accepted and issued, with order date and plate configuration.
 * `rejected-plates.csv`: CSV of plate applications that were rejected by the department, with order date and plate configuration.
+* `red-guide.csv`: A copy of the Red Guide, the list of "inappropriate" plate configurations that are automatically disallowed by the New York DMV as of July 2015.
+* `procedure.pdf`: A document listing the DMV's plate review and cancellation procedures as of June 2014.
 
 ## Notes
 
